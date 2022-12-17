@@ -17,7 +17,7 @@ printf '[4] Update  Os\n\n'
 printf '[5] Sources List\n\n'
 printf '[99] exit\n\n'
 printf '\n'
-read -p '[+] TYPE NUMBER ---> : ' TEST
+read -p '[+] TYPE THE NUMBER ---> : ' TEST
 if [ $TEST == '1' ]
 then
 	clear
