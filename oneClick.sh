@@ -5,7 +5,7 @@ function toolBanner() {
 	printf "\e[0;35m  ___ ___ ___    ___| |_|___| |_  \e[0m\n"
 	printf "\e[0;35m | . |   | -_|  |  _| | |  _| '_| \e[0m\n"
 	printf "\e[0;35m |___|_|_|___|  |___|_|_|___|_,_| \e[0;37m1.4v\e[0m\n"
-	printf "\n\e[0;37m  By Evin      My Telegram : spynot0 \e[0m\n"
+	printf "\n\e[0;37m  By Z3R0      My Telegram : spynot0 \e[0m\n"
 	echo
 }
 toolBanner
